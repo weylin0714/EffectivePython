@@ -66,7 +66,6 @@ master_doc = 'index'
 
 source_parsers = {
     '.md': CommonMarkParser,
-    '.MD': CommonMarkParser,
 }
 
-source_suffix = ['.rst', '.md', '.MD']
+source_suffix = ['.rst', '.md']
