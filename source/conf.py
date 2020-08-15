@@ -64,8 +64,4 @@ html_static_path = ['_static']
 master_doc = 'index'
 
 
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
 source_suffix = ['.rst', '.md']
