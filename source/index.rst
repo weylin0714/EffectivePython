@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Effective Python's documentation!
+Effective Python：改善Python程序的90个建议!
 ============================================
 
 .. toctree::
