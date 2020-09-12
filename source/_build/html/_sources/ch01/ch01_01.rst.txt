@@ -1,0 +1,6 @@
+1.1 确认自己所用的Python版本
+============================
+
+.. code:: python
+
+   print('hello world!')
